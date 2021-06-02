@@ -7,6 +7,6 @@ This playground was created within one week (7 days) for Apple's WWDC 2020 Swift
 
 ## Impressions
 
-![DualityGraph](DualityGraph.png)
-
 ![Duality](Duality.gif)
+
+![DualityGraph](DualityGraph.png)
